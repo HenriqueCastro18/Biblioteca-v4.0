@@ -55,6 +55,6 @@ Desenvolver este projeto me permitiu consolidar conhecimentos críticos em:
 ---
 
 ### Autor
-**Henrique Castro / HenriqueCastro18**
-GitHub: https://github.com/HenriqueCastro18
+**Henrique Castro / HenriqueCastro18** <br>
+GitHub: https://github.com/HenriqueCastro18 <br>
 Linkedin: https://www.linkedin.com/in/henrique-castro-b13798345/
