@@ -1,0 +1,33 @@
+# --- Pastas de Compilação (Binários) ---
+[Bb]in/
+[Oo]bj/
+
+# --- Arquivos do Visual Studio ---
+.vs/
+*.user
+*.userosscache
+*.sln.docattachments
+.vsconfig
+
+# --- Pasta de pacotes do NuGet ---
+packages/
+*.nuget.props
+*.nuget.targets
+
+# --- Arquivos de log e temporários ---
+*.log
+*.tmp
+*.temp
+
+# --- Arquivos de Sistema ---
+.DS_Store
+Thumbs.db
+
+# --- Configurações Locais de Usuário ---
+*.suo
+*.user
+*.userosscache
+*.sln.docattachments
+
+# --- Publicação / Saída de Build ---
+publish/
